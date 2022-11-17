@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A134BC3B2925AD0400A25918 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A134BC3A2925AD0400A25918 /* Color-Theme.swift */; };
 		A15B92A929235A1500B49028 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15B92A829235A1500B49028 /* Mission.swift */; };
 		A1A6D70829216390005813F0 /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A6D70729216390005813F0 /* MoonshotApp.swift */; };
 		A1A6D70A29216390005813F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A6D70929216390005813F0 /* ContentView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A134BC3A2925AD0400A25918 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		A15B92A829235A1500B49028 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		A1A6D70429216390005813F0 /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1A6D70729216390005813F0 /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				A1A6D70729216390005813F0 /* MoonshotApp.swift */,
 				A1A6D70929216390005813F0 /* ContentView.swift */,
+				A134BC3A2925AD0400A25918 /* Color-Theme.swift */,
 				A1CB9CB72922ECED00387605 /* astronauts.json */,
 				A1CB9CB82922ECED00387605 /* missions.json */,
 				A15B92A829235A1500B49028 /* Mission.swift */,
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1CB9CBC2922EDC700387605 /* Astronaut.swift in Sources */,
+				A134BC3B2925AD0400A25918 /* Color-Theme.swift in Sources */,
 				A1A6D70A29216390005813F0 /* ContentView.swift in Sources */,
 				A1A6D70829216390005813F0 /* MoonshotApp.swift in Sources */,
 				A15B92A929235A1500B49028 /* Mission.swift in Sources */,
